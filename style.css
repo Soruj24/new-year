@@ -59,19 +59,23 @@ header{
 .mainArticle{
     margin-top: 90px;
 }
-.mainArticleText{
-padding-left: 60px;
 
+
+ul{
+    list-style-position: inside;
 }
-.mainArticleText h1{
-    margin-bottom: 10px;
+ul li{
+    list-style: none;
 }
-.mainArticleText p{
-margin-bottom: 10px;
-}
-ol{
-    padding-left: 60px;
-    
+li::before{
+    content: '\f00c';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: bolder;
+    display: inline-block;
+    margin: 10px 5px;
+    color: #00ff1e;
+    font-size: 20px;
+
 }
 /* My failures end */
 /* Card start */
