@@ -43,3 +43,46 @@ header{
     transform: scale(1.1);
 }
 /* header end */
+
+/* maim start */
+
+/* My failures start */
+.mainSection{
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.mainImg{
+    height: 400px;
+    
+}
+.mainArticle{
+    margin-top: 90px;
+}
+.mainArticleText{
+padding-left: 60px;
+
+}
+.mainArticleText h1{
+    margin-bottom: 10px;
+}
+.mainArticleText p{
+margin-bottom: 10px;
+}
+ol{
+    padding-left: 60px;
+    
+}
+/* My failures end */
+
+/* my plans start */
+.plans{
+    display: flex;
+    justify-content: space-evenly;
+}
+.myPlans{
+    text-align: center;
+    margin-bottom: 50px;
+}
+/* my plans end */
+/* maim end */
