@@ -85,4 +85,16 @@ ol{
     margin-bottom: 50px;
 }
 /* my plans end */
+/* Awlays keep a positive start */
+.positive{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    padding: 50px;
+    background-image: linear-gradient(to left, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1)),url("./new-year-new-me/images/watch.png");
+    
+}
+
+/* Awlays keep a positive end */
 /* maim end */
